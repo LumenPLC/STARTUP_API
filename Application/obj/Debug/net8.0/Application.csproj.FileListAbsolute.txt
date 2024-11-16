@@ -1,0 +1,64 @@
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\bin\Debug\net8.0\Application.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\bin\Debug\net8.0\Application.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\bin\Debug\net8.0\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\Application.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\bin\Debug\net8.0\Application.deps.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\bin\Debug\net8.0\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\bin\Debug\net8.0\Application.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\bin\Debug\net8.0\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\bin\Debug\net8.0\Domain.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\refint\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\Application.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Application\obj\Debug\net8.0\ref\Application.dll
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\dev\new project api\New_Api\Application\bin\Debug\net8.0\Application.deps.json
+C:\dev\new project api\New_Api\Application\bin\Debug\net8.0\Application.dll
+C:\dev\new project api\New_Api\Application\bin\Debug\net8.0\Application.pdb
+C:\dev\new project api\New_Api\Application\bin\Debug\net8.0\Domain.dll
+C:\dev\new project api\New_Api\Application\bin\Debug\net8.0\Domain.pdb
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.dll
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\refint\Application.dll
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\Application.pdb
+C:\dev\new project api\New_Api\Application\obj\Debug\net8.0\ref\Application.dll
+C:\sawon\new project api\New_Api\Application\bin\Debug\net8.0\Application.deps.json
+C:\sawon\new project api\New_Api\Application\bin\Debug\net8.0\Application.dll
+C:\sawon\new project api\New_Api\Application\bin\Debug\net8.0\Application.pdb
+C:\sawon\new project api\New_Api\Application\bin\Debug\net8.0\Domain.dll
+C:\sawon\new project api\New_Api\Application\bin\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.dll
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\refint\Application.dll
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\Application.pdb
+C:\sawon\new project api\New_Api\Application\obj\Debug\net8.0\ref\Application.dll

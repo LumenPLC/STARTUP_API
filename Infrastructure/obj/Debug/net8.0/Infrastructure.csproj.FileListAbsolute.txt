@@ -1,0 +1,72 @@
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\dev\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\dev\new project api\New_Api\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Application.dll
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Application.pdb
+C:\sawon\new project api\New_Api\Infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\sawon\new project api\New_Api\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll

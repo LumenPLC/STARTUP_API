@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\infrastructure\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\reportsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\infrastructure\\repository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\infrastructure\\repository\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\crudentities\\setup\\leaveapplicationformmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\crudentities\\setup\\leaveapplicationformmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\viewentities\\regularacitivitis\\holidaylistgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\viewentities\\regularacitivitis\\holidaylistgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\viewentities\\attendance\\employeemonthwisedtlsgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\viewentities\\attendance\\employeemonthwisedtlsgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\crudentities\\setup\\encashmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\crudentities\\setup\\encashmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\crudentities\\attendance\\empshiftmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\crudentities\\attendance\\empshiftmst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\domain\\entities\\crudentities\\attendance\\empfingerattendenceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\crudentities\\attendance\\empfingerattendenceentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\application\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\hrpm_web_api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2C417F-8DBC-4852-A0CD-1239B92068E0}|HRPM_WEB_API\\HRPM_WEB_API.csproj|solutionrelative:hrpm_web_api\\controllers\\processcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\infrastructure\\repository\\processrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\processrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\dev\\me\\payrol admin\\hr_payroll_backend\\application\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\IRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepository\\IAuthRepository.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\IRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "Application\\IRepository\\IAuthRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAASwA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:41:50.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Program.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Program.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Program.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAtwFMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:41:22.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\AttendanceRepository.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\AttendanceRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\AttendanceRepository.cs",
+              "ViewState": "AQIAABcBAAAAAAAAAAAAAA0BAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T06:05:03.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveApplicationFormMst.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Setup\\LeaveApplicationFormMst.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CRUDEntities\\Setup\\LeaveApplicationFormMst.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Setup\\LeaveApplicationFormMst.cs",
+              "RelativeToolTip": "Domain\\Entities\\CRUDEntities\\Setup\\LeaveApplicationFormMst.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAIAzwBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:45:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\appsettings.json",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\appsettings.json",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\appsettings.json",
+              "RelativeToolTip": "HRPM_WEB_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T07:24:38.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Controllers\\ReportsController.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAwwMAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:07:40.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportsRepository.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\ReportsRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ReportsRepository.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\ReportsRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ReportsRepository.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAKUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T11:11:01.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SetupRepository.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\SetupRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SetupRepository.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\SetupRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SetupRepository.cs",
+              "ViewState": "AQIAAD8EAAAAAAAAAAAuwEQEAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:22:12.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-13T15:41:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeMonthWiseDtlsGrid.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\ViewEntities\\Attendance\\EmployeeMonthWiseDtlsGrid.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ViewEntities\\Attendance\\EmployeeMonthWiseDtlsGrid.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\ViewEntities\\Attendance\\EmployeeMonthWiseDtlsGrid.cs",
+              "RelativeToolTip": "Domain\\Entities\\ViewEntities\\Attendance\\EmployeeMonthWiseDtlsGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T04:56:05.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HolidayListGrid.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\ViewEntities\\RegularAcitivitis\\HolidayListGrid.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ViewEntities\\RegularAcitivitis\\HolidayListGrid.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\ViewEntities\\RegularAcitivitis\\HolidayListGrid.cs",
+              "RelativeToolTip": "Domain\\Entities\\ViewEntities\\RegularAcitivitis\\HolidayListGrid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:26:28.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAA0NAAAAAAAAAAAAwCINAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-15T06:28:33.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAAAMoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:55:30.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmpFingerAttendenceEntry.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Attendance\\EmpFingerAttendenceEntry.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CRUDEntities\\Attendance\\EmpFingerAttendenceEntry.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Attendance\\EmpFingerAttendenceEntry.cs",
+              "RelativeToolTip": "Domain\\Entities\\CRUDEntities\\Attendance\\EmpFingerAttendenceEntry.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:42:38.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmpShiftMst.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Attendance\\EmpShiftMst.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CRUDEntities\\Attendance\\EmpShiftMst.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Attendance\\EmpShiftMst.cs",
+              "RelativeToolTip": "Domain\\Entities\\CRUDEntities\\Attendance\\EmpShiftMst.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:43:33.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EnCashMst.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Setup\\EnCashMst.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CRUDEntities\\Setup\\EnCashMst.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Domain\\Entities\\CRUDEntities\\Setup\\EnCashMst.cs",
+              "RelativeToolTip": "Domain\\Entities\\CRUDEntities\\Setup\\EnCashMst.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T15:44:25.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:10:38.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProcessController.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\ProcessController.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Controllers\\ProcessController.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\ProcessController.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Controllers\\ProcessController.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAuwCEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T10:38:16.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SetupController.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\SetupController.cs",
+              "RelativeDocumentMoniker": "HRPM_WEB_API\\Controllers\\SetupController.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\HRPM_WEB_API\\Controllers\\SetupController.cs",
+              "RelativeToolTip": "HRPM_WEB_API\\Controllers\\SetupController.cs",
+              "ViewState": "AQIAAGwCAAAAAAAAAAAowHkCAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:22:43.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProcessRepository.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\ProcessRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\ProcessRepository.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Infrastructure\\Repository\\ProcessRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\ProcessRepository.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAAAOEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:20:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\Service\\MenuService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\MenuService.cs",
+              "ToolTip": "C:\\dev\\me\\Payrol Admin\\hr_payroll_backend\\Application\\Service\\MenuService.cs",
+              "RelativeToolTip": "Application\\Service\\MenuService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAiwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T07:10:24.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

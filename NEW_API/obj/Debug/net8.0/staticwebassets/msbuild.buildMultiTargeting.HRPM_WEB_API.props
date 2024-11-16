@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HRPM_WEB_API.props" />
+</Project>

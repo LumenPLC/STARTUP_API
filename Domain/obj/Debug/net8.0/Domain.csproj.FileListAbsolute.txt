@@ -1,0 +1,52 @@
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\bin\Debug\net8.0\Domain.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\Domain.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\dev\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\dev\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.dll
+C:\dev\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.pdb
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.dll
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.pdb
+C:\dev\new project api\New_Api\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\sawon\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\sawon\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.dll
+C:\sawon\new project api\New_Api\Domain\bin\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.dll
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\ref\Domain.dll

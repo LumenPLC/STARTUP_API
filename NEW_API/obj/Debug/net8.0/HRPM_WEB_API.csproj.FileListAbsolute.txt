@@ -1,0 +1,162 @@
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\appsettings.Development.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\appsettings.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.exe
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.deps.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.runtimeconfig.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HtmlRenderer.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HtmlRenderer.PdfSharp.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\PdfSharp.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Management.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Application.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Domain.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Infrastructure.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Application.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Infrastructure.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Domain.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.AssemblyReference.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.Properties.Resources.resources
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.GenerateResource.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.AssemblyInfoInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.AssemblyInfo.cs
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.CoreCompileInputs.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.sourcelink.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.HRPM_WEB_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.build.HRPM_WEB_API.props
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRPM_WEB_API.props
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRPM_WEB_API.props
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\scopedcss\bundle\HRPM_WEB_API.styles.css
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB.6BB788E8.Up2Date
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\refint\HRPM_WEB_API.dll
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.pdb
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.genruntimeconfig.cache
+C:\dev\me\Payrol Admin\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\ref\HRPM_WEB_API.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\appsettings.Development.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\appsettings.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.exe
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.deps.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.runtimeconfig.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HRPM_WEB_API.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Auth.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Core.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Google.Apis.Drive.v3.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HtmlRenderer.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\HtmlRenderer.PdfSharp.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Oracle.ManagedDataAccess.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\PdfSharp.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\BouncyCastle.Crypto.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.CodeDom.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.DirectoryServices.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.DirectoryServices.Protocols.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Management.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\de\PdfSharp.resources.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Application.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Domain.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Infrastructure.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Application.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Infrastructure.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\bin\Debug\net8.0\Domain.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.AssemblyReference.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.Properties.Resources.resources
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.GenerateResource.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.AssemblyInfoInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.AssemblyInfo.cs
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.csproj.CoreCompileInputs.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.MvcApplicationPartsAssemblyInfo.cs
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.MvcApplicationPartsAssemblyInfo.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.sourcelink.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.build.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.development.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.HRPM_WEB_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.build.HRPM_WEB_API.props
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.HRPM_WEB_API.props
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.HRPM_WEB_API.props
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\scopedcss\bundle\HRPM_WEB_API.styles.css
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB.6BB788E8.Up2Date
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\refint\HRPM_WEB_API.dll
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.pdb
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\HRPM_WEB_API.genruntimeconfig.cache
+C:\yeamin\HR_PAYROLL_NEW\hr_payroll_backend\HRPM_WEB_API\obj\Debug\net8.0\ref\HRPM_WEB_API.dll

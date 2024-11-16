@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\sawon\\new project api\\New_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|c:\\sawon\\new project api\\new_api\\new_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|solutionrelative:new_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|c:\\sawon\\new project api\\new_api\\new_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|solutionrelative:new_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|c:\\sawon\\new project api\\new_api\\new_api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|solutionrelative:new_api\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\sawon\\new project api\\new_api\\infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\menurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\iservice\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\iservice\\imenuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\irepository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\irepository\\imenurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\irepository\\iauthrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\service\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\sawon\\new project api\\new_api\\infrastructure\\repository\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\setuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\sawon\\new project api\\new_api\\domain\\entities\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\response\\responsemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\iservice\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\iservice\\isetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\iservice\\isetupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|c:\\sawon\\new project api\\new_api\\new_api\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8CF3E21-D7F2-4AAE-85B5-9E01CE12BB0C}|NEW_API\\NEW_API.csproj|solutionrelative:new_api\\controllers\\setupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|c:\\sawon\\new project api\\new_api\\infrastructure\\dbcontext\\oracledbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25671396-3BE2-4AC9-A163-0937CC82700C}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontext\\oracledbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\irepository\\isetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\irepository\\isetuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|c:\\sawon\\new project api\\new_api\\domain\\entities\\google drive\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4349BBE5-E959-42F9-B0B3-2B3DCB023A42}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\google drive\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|c:\\sawon\\new project api\\new_api\\application\\service\\setupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77F1EF08-3B1E-4724-8F76-DDA94DCF56A7}|Application\\Application.csproj|solutionrelative:application\\service\\setupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\NEW_API\\appsettings.json",
+              "RelativeDocumentMoniker": "NEW_API\\appsettings.json",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\NEW_API\\appsettings.json*",
+              "RelativeToolTip": "NEW_API\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T08:43:13.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "NEW_API\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "NEW_API\\Controllers\\MenuController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBsAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:42:42.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuRepository.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Repository\\MenuRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\MenuRepository.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Repository\\MenuRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\MenuRepository.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAAEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:42:27.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\MenuService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\MenuService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\MenuService.cs",
+              "RelativeToolTip": "Application\\Service\\MenuService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:42:16.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMenuService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\IMenuService.cs",
+              "RelativeDocumentMoniker": "Application\\IService\\IMenuService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\IMenuService.cs",
+              "RelativeToolTip": "Application\\IService\\IMenuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:42:06.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMenuRepository.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\IMenuRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepository\\IMenuRepository.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\IMenuRepository.cs",
+              "RelativeToolTip": "Application\\IRepository\\IMenuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:39:30.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Program.cs",
+              "RelativeDocumentMoniker": "NEW_API\\Program.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Program.cs",
+              "RelativeToolTip": "NEW_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:38:28.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthRepository.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\IAuthRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepository\\IAuthRepository.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\IAuthRepository.cs",
+              "RelativeToolTip": "Application\\IRepository\\IAuthRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:43.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\AuthService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\AuthService.cs",
+              "RelativeToolTip": "Application\\Service\\AuthService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:00:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SetupRepository.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Repository\\SetupRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SetupRepository.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Repository\\SetupRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SetupRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:03:54.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SetupController.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Controllers\\SetupController.cs",
+              "RelativeDocumentMoniker": "NEW_API\\Controllers\\SetupController.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\NEW_API\\Controllers\\SetupController.cs",
+              "RelativeToolTip": "NEW_API\\Controllers\\SetupController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:05:06.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponseMessage.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Domain\\Entities\\Response\\ResponseMessage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Response\\ResponseMessage.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Domain\\Entities\\Response\\ResponseMessage.cs",
+              "RelativeToolTip": "Domain\\Entities\\Response\\ResponseMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:01:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\IService\\IAuthService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\IAuthService.cs",
+              "RelativeToolTip": "Application\\IService\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:54.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISetupService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\ISetupService.cs",
+              "RelativeDocumentMoniker": "Application\\IService\\ISetupService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IService\\ISetupService.cs",
+              "RelativeToolTip": "Application\\IService\\ISetupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:00:00.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T16:04:08.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.303\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAADUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-26T16:04:13.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OracleDbConnection.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\DbContext\\OracleDbConnection.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContext\\OracleDbConnection.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\DbContext\\OracleDbConnection.cs",
+              "RelativeToolTip": "Infrastructure\\DbContext\\OracleDbConnection.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAnwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:04:29.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Credential.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Domain\\Entities\\Google Drive\\Credential.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Google Drive\\Credential.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Domain\\Entities\\Google Drive\\Credential.cs",
+              "RelativeToolTip": "Domain\\Entities\\Google Drive\\Credential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T16:00:46.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISetupRepository.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\ISetupRepository.cs",
+              "RelativeDocumentMoniker": "Application\\IRepository\\ISetupRepository.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\IRepository\\ISetupRepository.cs",
+              "RelativeToolTip": "Application\\IRepository\\ISetupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:59:48.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SetupService.cs",
+              "DocumentMoniker": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\SetupService.cs",
+              "RelativeDocumentMoniker": "Application\\Service\\SetupService.cs",
+              "ToolTip": "C:\\sawon\\new project api\\New_Api\\Application\\Service\\SetupService.cs",
+              "RelativeToolTip": "Application\\Service\\SetupService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T15:55:16.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
