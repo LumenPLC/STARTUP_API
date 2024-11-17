@@ -50,3 +50,29 @@ C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.dll
 C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\refint\Domain.dll
 C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\Domain.pdb
 C:\sawon\new project api\New_Api\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\sawon\new project api\STARTUP_API\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\sawon\new project api\STARTUP_API\Domain\bin\Debug\net8.0\Domain.dll
+C:\sawon\new project api\STARTUP_API\Domain\bin\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.dll
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\Domain.pdb
+C:\sawon\new project api\STARTUP_API\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\dev\me\startup project\STARTUP_API\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\dev\me\startup project\STARTUP_API\Domain\bin\Debug\net8.0\Domain.dll
+C:\dev\me\startup project\STARTUP_API\Domain\bin\Debug\net8.0\Domain.pdb
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.dll
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\Domain.pdb
+C:\dev\me\startup project\STARTUP_API\Domain\obj\Debug\net8.0\ref\Domain.dll

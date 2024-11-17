@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sawon\\new project api\\New_Api\\NEW_API\\NEW_API.csproj": {}
+    "C:\\dev\\me\\startup project\\STARTUP_API\\NEW_API\\NEW_API.csproj": {}
   },
   "projects": {
-    "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj": {
+    "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj",
+        "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\sawon\\new project api\\New_Api\\Application\\obj\\",
+        "outputPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj"
+              "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj": {
+    "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj",
+        "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\sawon\\new project api\\New_Api\\Domain\\obj\\",
+        "outputPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -142,14 +142,14 @@
         }
       }
     },
-    "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\obj\\",
+        "outputPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,8 +167,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj": {
-                "projectPath": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj"
+              "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj": {
+                "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj"
               }
             }
           }
@@ -233,14 +233,14 @@
         }
       }
     },
-    "C:\\sawon\\new project api\\New_Api\\NEW_API\\NEW_API.csproj": {
+    "C:\\dev\\me\\startup project\\STARTUP_API\\NEW_API\\NEW_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sawon\\new project api\\New_Api\\NEW_API\\NEW_API.csproj",
+        "projectUniqueName": "C:\\dev\\me\\startup project\\STARTUP_API\\NEW_API\\NEW_API.csproj",
         "projectName": "NEW_API",
-        "projectPath": "C:\\sawon\\new project api\\New_Api\\NEW_API\\NEW_API.csproj",
+        "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\NEW_API\\NEW_API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\sawon\\new project api\\New_Api\\NEW_API\\obj\\",
+        "outputPath": "C:\\dev\\me\\startup project\\STARTUP_API\\NEW_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -258,11 +258,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj": {
-                "projectPath": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj"
+              "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj": {
+                "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj"
               },
-              "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\sawon\\new project api\\New_Api\\Infrastructure\\Infrastructure.csproj"
+              "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

@@ -1,6 +1,7 @@
 ﻿using Application.IRepository;
 using Domain.Entities.Common.Params;
 using Domain.Entities.ViewEntities.Menu;
+using Domain.Entities.ViewEntities.Role;
 using Infrastructure.DbContext;
 using Infrastructure.GoogleDriveService;
 using Infrastructure.Helper.Redis;
@@ -46,8 +47,9 @@ namespace Infrastructure.Repository
             {
                 OracleParameter[] parameters = new OracleParameter[2];
                 parameters[0] = _dbConnection.MakeOutParameter(OracleDbType.RefCursor, ParameterDirection.Output);
+              //  parameters[1] = _dbConnection.MakeInParameter(USER_CODE, OracleDbType.Int16);
                 parameters[1] = _dbConnection.MakeInParameter(ROLE_ID, OracleDbType.Int16);
-                list = _dbConnection.GetList<MenuVM>("DPG_MENU_MST.DPD_MENU_LIST", parameters);
+                list = _dbConnection.GetList<MenuVM>("DPG_ADMIN_LOGIN.DPD_ADMIN_MENU", parameters);
 
                 MenuVM menu = new MenuVM();
                 menu.MD = "ADMIN";
@@ -94,6 +96,108 @@ namespace Infrastructure.Repository
 
             }
         }
+
+
+        //// role assign 
+
+
+
+        public List<AllMenuViewModel> GetAllMenuList()
+        {
+            using (var connection = _dbConnection.GetConnection())
+            {
+
+                List<AllMenuViewModel> menuList = new List<AllMenuViewModel>();
+                OracleParameter[] parameters = new OracleParameter[1];
+                parameters[0] = _dbConnection.MakeOutParameter(OracleDbType.RefCursor, ParameterDirection.Output);
+
+                menuList = _dbConnection.GetList<AllMenuViewModel>("DPG_ADMIN_ROLE_MENU_MAP.DPD_ADMIN_ALL_MENU_V3", parameters);
+
+                return menuList;
+
+            }
+        }
+
+
+
+        public List<UserRoleAssign> GetUserRoleAssignList(int roleId)
+        {
+            using (var connection = _dbConnection.GetConnection())
+            {
+
+                List<UserRoleAssign> roleAssignList = new List<UserRoleAssign>();
+                OracleParameter[] parameters = new OracleParameter[2];
+                parameters[0] = _dbConnection.MakeOutParameter(OracleDbType.RefCursor, ParameterDirection.Output);
+                parameters[1] = _dbConnection.MakeInParameter(roleId, OracleDbType.Int16);
+                roleAssignList = _dbConnection.GetList<UserRoleAssign>("DPG_ADMIN_ROLE_MENU_MAP.DPD_USER_MENU_LIST_ASSIGN_V3", parameters);
+
+                return roleAssignList;
+
+            }
+        }
+
+
+
+
+
+
+
+        public (int status, string[] message) SaveRoleMenu(RoleMenuMapViewModel roleMenuMapViewModel)
+        {
+            using (var connection = _dbConnection.GetConnection())
+            {
+                int status = 0;
+                string[] message = new string[2];
+                decimal[] ArrMenuItemid = roleMenuMapViewModel.MENU_ITEM_ID.ToArray();
+
+                try
+                {
+                    OracleParameter[] Params = new OracleParameter[4];
+                    Params[0] = _dbConnection.MakeOutParameter(OracleDbType.Int16, ParameterDirection.Output);                
+                    Params[1] = _dbConnection.MakeInParameter(roleMenuMapViewModel.ROLE_ID, OracleDbType.Decimal);
+                    Params[2] = _dbConnection.MakeCollectionParameter(ArrMenuItemid, OracleDbType.Decimal, ArrMenuItemid.Length);
+                    Params[3] = _dbConnection.MakeInParameter(roleMenuMapViewModel.USER_CODE, OracleDbType.Varchar2);
+
+                    var Status = _dbConnection.RunProcedureWithReturnValAndStatus("DPG_ADMIN_ROLE_MENU_MAP.DPD_ADMIN_ROLE_MENU_MAP_V3", Params);
+                  
+                    if (status == 1)
+                    {
+                        message[0] = "Assigned roles are saved successfully !!";
+                        message[1] = "#5cb85c";
+                    }
+                    else
+                    {
+                        message[0] = "Role assign saved failed. Please try again.";
+                        message[1] = "#e35b5a";
+                    }
+
+                    return (Status.status, message);
+
+                }
+                catch (Exception ex)
+                {
+                    message[0] = ex.Message;
+                    return (0, message);
+                }
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

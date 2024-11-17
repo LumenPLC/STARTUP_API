@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ic7L1NEC65E=",
+  "dgSpecHash": "WKwGovADsTA=",
   "success": true,
-  "projectFilePath": "C:\\sawon\\new project api\\New_Api\\Application\\Application.csproj",
+  "projectFilePath": "C:\\dev\\me\\startup project\\STARTUP_API\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\htmlrenderer.core\\1.5.0.5\\htmlrenderer.core.1.5.0.5.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\htmlrenderer.pdfsharp\\1.5.0.6\\htmlrenderer.pdfsharp.1.5.0.6.nupkg.sha512",

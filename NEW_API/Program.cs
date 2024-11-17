@@ -67,6 +67,11 @@ builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IAuthRepository, AuthRepository>();
 
 
+builder.Services.AddScoped<IRoleService, RoleService>();
+builder.Services.AddScoped<IRoleRepository, RoleRepository>();
+
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -2,6 +2,7 @@
 using Domain.Entities.Common.Params;
 using Domain.Entities.Response;
 using Domain.Entities.ViewEntities.Menu;
+using Domain.Entities.ViewEntities.Role;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -75,6 +76,80 @@ namespace HRPM_WEB_API.Controllers
                 return StatusCode(500, new { Status = "Error", Message = ex.Message });
             }
         }
+
+
+        /// role assign 
+
+
+
+
+
+        [HttpGet]
+        [Route("GetAllMenuList")]
+        public IActionResult GetAllMenuList()
+        {
+
+            List<AllMenuViewModel> roleList = _service.GetAllMenuList();
+            ResponseMessage responseMessage = new ResponseMessage();
+            responseMessage.StatusCode = 1;
+            responseMessage.Message = "Role List";
+            responseMessage.ResponseObj = roleList;
+            return Ok(responseMessage);
+        }
+
+
+
+        [HttpGet]
+        [Route("GetUserRoleAssignList")]
+        public IActionResult GetUserRoleAssignList(int roleId)
+        {
+
+            List<UserRoleAssign> roleList = _service.GetUserRoleAssignList(roleId);
+            ResponseMessage responseMessage = new ResponseMessage();
+            responseMessage.StatusCode = 1;
+            responseMessage.Message = "Role List";
+            responseMessage.ResponseObj = roleList;
+            return Ok(responseMessage);
+        }
+
+
+
+
+
+
+        [HttpPost]
+        [Route("SaveAllRoleMenu")]
+        public IActionResult SaveAllRoleMenu([FromBody] RoleMenuMapViewModel roleMenu)
+        {
+            //RoleMenuMapViewModel roleMenu = new RoleMenuMapViewModel();
+            //string jsonResponse = Convert.ToString(requestObject.RequestObject);
+            //roleMenu = JsonConvert.DeserializeObject<RoleMenuMapViewModel>(jsonResponse);
+            var statusAndMessage = _service.SaveRoleMenu(roleMenu);
+
+            ResponseMessage responseMessage = new ResponseMessage();
+            responseMessage.StatusCode = statusAndMessage.status;
+            responseMessage.ResponseObj = roleMenu;
+            responseMessage.Message = statusAndMessage.message[0];
+            return Ok(responseMessage);
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     }

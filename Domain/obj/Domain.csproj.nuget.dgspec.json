@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj": {}
+    "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj": {
+    "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\sawon\\new project api\\New_Api\\Domain\\Domain.csproj",
+        "projectPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\sawon\\new project api\\New_Api\\Domain\\obj\\",
+        "outputPath": "C:\\dev\\me\\startup project\\STARTUP_API\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

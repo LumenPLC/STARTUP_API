@@ -12,5 +12,22 @@ namespace Application.IRepository
     {
         public List<MenuVM> GetMenu(string USER_CODE, int ROLE_ID);
         List<OrgInfoGrid> GetOrganizationInfo(OrgBranchParam orgBranchParam);
+
+
+
+        /// role assign 
+
+        List<AllMenuViewModel> GetAllMenuList();
+
+
+        List<UserRoleAssign> GetUserRoleAssignList(int roleId);
+
+
+        (int status, string[] message) SaveRoleMenu(RoleMenuMapViewModel roleMenuMapViewModel);
+
+
+
+
+
     }
 }
